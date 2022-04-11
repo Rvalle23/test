@@ -4,6 +4,7 @@
     "area": "Corporate",
     "profileUrl": "http://example.com/employee/profile",
     "office": "CTO office",
+    "salary": 1000000,
     "tags": "Ceo,tag1,manager,cto",
     "isLoggedUser": false,
     "unit": {
@@ -17,8 +18,9 @@
         "area": "Corporate",
         "profileUrl": "http://example.com/employee/profile",
         "office": "CEO office",
+        "salary": 500000,
         "tags": "Ceo,tag1, tag2",
-        "isLoggedUser": false,
+        "isLoggedUser": true,
         "unit": {
             "type": "business",
             "value": "Business one"
@@ -30,6 +32,7 @@
             "area": "Corporate",
             "profileUrl": "http://example.com/employee/profile",
             "office": "CEO office",
+            "salary": 200000,
             "tags": "Ceo,tag1, tag2",
             "isLoggedUser": false,
             "unit": {
